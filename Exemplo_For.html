@@ -1,0 +1,39 @@
+<script>
+
+/*
+UTILIZAÇÃO DA ESTRUTURA DE REPETIÇÃO FOR
+
+Estrutura básica:
+for(CONDIÇÃO INICIAL;CONDIÇÃO FINAL; INCREMENTO/DECREMENTO)
+{
+	BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO INICIAL SEJA IGUAL A FINAL;
+}
+
+PROBLEMA PROPOSTO:
+FAÇA UM PROGRAMA QUE LEIA 5 NÚMEROS INTEIROS QUE DEVERÃO SER INFORMADOS PELO USUÁRIO E RETORNE O VALOR DA SOMA DOS NÚMEROS.
+
+*/
+
+//INIALIZAÇÃO DAS VARIÁVEIS:
+var variavel_acumuladora = 0;
+var numero_digitado;
+
+/* SÃO INICIALIZADAS DUAS VARIÁVEIS, A PRIMEIRA SERÁ RESPONSÁVEL POR ACUMULAR A SOMA DOS NÚMEROS DIGITADOS PELO USUÁRIO
+A SEGUNDA SERÁ RESPONSÁVEL POR RECEBER O NÚMEROS QUE SERÁ DIGITADO. */
+
+for (var i = 1; i <=5 ; i ++ )
+{
+	//Lembrete: A estrutura do parseInt se faz necessária uma vez que o usuário deverá digitar um número inteiro.
+	numero_digitado = parseInt(prompt("Digite um numero inteiro a ser somado."));
+	
+	//Neste comando somado o valor que está contido na variavel_acumuladora com o valor digitado em cada interação pelo usuário.
+	//Lembrete: Inicialmente a variavel_acumuladora possui valor zero.
+	variavel_acumuladora = variavel_acumuladora + numero_digitado;
+}
+
+//Ao final do loop for, a variavel_acumuladora possuirá o valor da soma dos números digitados, devendo agora ser mostrada na tela.
+
+document.write("O valor da soma dos numeros digitados é igual a: " + variavel_acumuladora);
+
+
+</script>
