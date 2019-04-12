@@ -1,1 +1,1 @@
-1) Faça um programa que recebe 10 números digitados pelo usuário e retorne a média dos seus valores.
+1) Faça um programa que recebe 10 números digitados pelo usuário e retorne a média dos seus valores .
