@@ -1,1 +1,1 @@
-Teste
+1) Escreva um programa que leia 10 números digitados pelo usuário e mostre na tela a média deles.
