@@ -1,0 +1,17 @@
+1) Escreva um programa que leia 10 números digitados pelo usuário e grave-os em um vetor. Ao final, mostre o vetor de trás para frente.
+
+2) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Troque todos os elementos do primeiro vetor com os elementos do segundo vetor e ao final mostre todos os elementos dos dois vetores.
+
+3) Escreva um programa que leia 10 números digitados pelo usuário e grave-os em um vetor. Após isso, peça para o usuário digitar um décimo primeiro número que deverá ser procurado. Percorra todo o vetor inicial e informe na tela quantas vezes o décimo primeiro número aparece no vetor.
+
+4) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Percorra os dois vetores e mostre na tela a soma do maior elemento do primeiro vetor com o menor elemento do segundo vetor.
+
+5) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Mostre na tela um terceiro vetor que será igual a concatenação dos dois vetores.
+
+6) Escreva um programa que leia 10 números digitados pelo usuário e grave-os em um vetor. Ao final, mostre o vetor em ordem crescente.
+
+7) Escreva um programa que leia 2 palavras digitadas pelo usuário. Ao final, mostre as palavras em ordem alfabética.
+
+8) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Mostre na tela um terceiro vetor que será a ordenação dos dois outros vetores em ordem crescente.
+
+9) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Mostre na tela um terceiro vetor que será a ordenação dos dois outros vetores em ordem crescente excluindo os valores repetidos.
