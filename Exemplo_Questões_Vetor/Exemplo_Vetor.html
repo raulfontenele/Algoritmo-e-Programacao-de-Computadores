@@ -1,0 +1,42 @@
+<script>
+/*
+CRIAÇÃO E UTILIZAÇÃO DE VETORES
+
+Um vetor pode ser iniciado vazio ou valores previamente definidos. As estruturas básicas são:
+1) Inicializando um vetor vazio e sem tamanho prévio.
+var vetor = [];
+
+2) Inicializando um vetor vazio e com tamanho prévio.
+var vetor = new Array(TAMANHO_DO_VETOR);
+
+3) Inicializando um vetor preenchido.
+var vetor = [Num1 Num2 ... NumN];
+
+3.1)Inicializando um vetor preenchido.
+var vetor = new Array(Num1 Num2 ... NumN);
+
+Para acessar os elementos de um vetor: vetor[0]
+Com esse comando é possível acessar o primeiro elemento do vetor.
+
+PROBLEMA PROPOSTO:
+FAÇA UM PROGRAMA QUE LEIA 5 NÚMEROS INTEIROS QUE DEVERÃO SER INFORMADOS PELO USUÁRIO, GRAVE EM UM VETOR E RETORNE, AO FINAL, OS ELEMENTOS ARMAZENADOS NO VETOR.
+
+*/
+
+//Inicialização das variáveis
+var numero_digitado;
+var vetor_armazenamento = [];
+
+//Receber os números e armazenar no vetor
+for( var i = 0; i < 5 ; i++ )
+{	
+	//Lembrete: O valor do i deverá ser inicializado em zero, já que a primeira posição do vetor possui índice zero e não um.
+	numero_digitado = parseInt(prompt("Digite um numero inteiro"));
+	vetor_armazenamento[i] = numero_digitado;
+}
+
+//Percorrer o vetor e mostrar os números na tela.
+for( var j = 0 ; j < 5; j++ ){
+	document.write("O valor armazenado no indice:" + j + " do vetor e:" + vetor_armazenamento[j] + "<br>");
+}
+</script>
