@@ -1,0 +1,3 @@
+1) Escreva um programa que imprima "Hello World" na tela.
+
+2) Escreva um programa que peça ao usuário seu nome e cumprimente-o com seu nome.

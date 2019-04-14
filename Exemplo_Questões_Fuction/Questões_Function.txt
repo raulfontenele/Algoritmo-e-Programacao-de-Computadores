@@ -1,0 +1,19 @@
+1) Fazer uma função que receba um número inteiro e retorne 1 caso seja par e 0 caso seja impar.
+
+2) Fazer uma função que receba dois números inteiros, e retorne 1 caso o primeiro seja divisível pelo
+segundo e 0 caso contrário.
+
+3) Fazer uma função que retorne a quantidade de divisores de um número inteiro, fornecido para a
+função.
+
+4)  Fazer uma função que receba três números, A, B e C de uma equação do segundo grau (Ax2+Bx+C=0), e
+retorne 1 caso tenha duas raízes reais distintas, 0 caso tenha duas raízes reais iguais e –1 caso não
+tenha raízes reais.
+
+5) Faça uma função que recebe a idade de uma pessoa em anos, meses e dias e retorna essa idade expressa em dias.
+
+6) Fazer uma função que receba um número inteiro e retorne o fatorial.
+
+7) Fazer uma função que receba uma base e um expoente e retorne o valor da base elevado ao expoente.
+
+8) Fazer uma função que receba um número x e retorne um valor calculado pela série de Taylor.

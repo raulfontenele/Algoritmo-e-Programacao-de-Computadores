@@ -1,0 +1,58 @@
+<script>
+/* Estrutura básica de funções
+
+function NOME_DA_FUNÇÃO(PARÂMETROS DA FUNÇÃO)
+{
+	CÓDIGO A SER EXECUTADO DENTRO DA FUNÇÃO;
+	return VALOR_A_SER_RETORNADO;  --> CASO EXISTA ALGUM VALOR A SER RETORNADO
+}
+
+PROBLEMAS PROPOSTOS:
+1) ESCREVA UMA FUNÇÃO QUE RECEBA UM NÚMERO INTEIRO E POSITIVO E RETORNE 0 CASO O MESMO SEJA PAR OU 1 CASO O MESMO SEJA IMPAR. 
+2) ESCREVA UMA FUNÇÃO QUE RECEBA DOIS NÚMEROS E RETORNE A SOMA DELES.
+*/
+
+// Declaração das variáveis
+var numero_par_ou_impar;
+var numero1, numero2;
+var retorno_paridade;
+var retorno_soma;
+
+//Pedir dados ao usuário;
+do{
+	numero_par_ou_impar = parseInt(prompt("Digite um numero inteiro positivo"));
+}while(numero_par_ou_impar <= 0) // Continuará a pedir se o número digitado for negativo
+
+numero1 = parseFloat(prompt("Digite o primeiro numero a ser somado"));
+numero2 = parseFloat(prompt("Digite o segundo numero a ser somado"));
+
+//Chamada da função
+retorno_paridade = parOuImpar(numero_par_ou_impar); //O valor de retorno da função parOuImpar será atribuido ao retorno_paridade
+retorno_soma = soma(numero1,numero2); //Vale lembrar que o nome das variáveis que serão colocadas como parâmetro para as funções não precisar possuir
+									  //o mesmo nome com o qual ele foi criada. A ordem das variáveis é o fator que importa
+									  
+//Exibir ao usuário
+document.write("O retorno da paridade foi:" + retorno_paridade + "<br>");
+document.write("O retorno da soma foi:" + retorno_soma);
+
+//Primeira função
+function parOuImpar(numero)
+{
+	//Um número é par se o resto da sua divisão por 2 é igual a 0; Qualquer número positivo dividido por dois só poderá ter resto 0 ou 1
+	if(numero % 2 == 0){
+		return 0;
+	}
+	else{
+		return 1;
+	}
+	
+}
+
+//Segunda função
+function soma(num1,num2){
+	//Vale lembrar que qualquer variáveis declarada dentro de uma function só existe em seu interior.
+	var resultado = num1 + num2;
+	
+	return resultado;
+}
+</script>

@@ -1,0 +1,39 @@
+<script>
+/* INPUTS/OUTPUTS
+
+//INPUTS
+var leitura = prompt("Mensagem que será mostrada ao usuário pedindo algo","Resposta padrão"(opcional));
+//É importante lembrar de atribuir o retorno do prompt há alguma variável para que a informação não seja perdida.
+
+var leitura = confirm("Mensagem para perguntar se ele deseja confirmar");
+//A função confirm atribui true caso o usuário clique em "Ok" ou atribui false caso o usuário clique em "Cancelar"
+
+
+//OUTPUTS
+alert("Mensagem a ser mostrada ao usuário em uma janela pop up" + variável_a_ser_exibida_caso_necessário);
+
+document.write("Mensagem a ser mostrada da seção document da página html" + variável_a_ser_exibida_caso_necessário);
+
+//PROBLEMA PROPOSTO
+FAÇA UM PROGRAMA QUE LEIA UMA FRASE DIGITADA PELO USUÁRIO. APÓS ISSO, PEÇA QUE ELE CONFIRME QUE DIGITOU A MENSAGEM. CASO ELE CLIQUE EM OK, MOSTRE A MENSAGEM DIGITADA
+CASO ELE CLIQUE EM CANCELAR, DIGA QUE NÃO FOI POSSÍVEL IDENTIFICAR A MENSAGEM DIGITADA.
+
+*/
+
+//Declaração das variáveis
+var mensagem;
+var confirmacao;
+
+//Pedir uma mensagem ao usuário
+mensagem = prompt("Digite uma mensagem"); //Lembrete: Não é necessário o uso do parseInt, uma vez que a mensagem será uma string
+
+//Pedir para o usuário confirmar a mensagem digitada
+confirmacao = confirm("A mensagem digitada foi: " + mensagem + "?" );
+
+if(confirmacao == true){ //Caso o usuário clique em OK
+	document.write("A mensagem digitada foi: " + mensagem);
+}
+else{
+	document.write("Nao foi possivel identificar a mensagem digitada");
+}
+</script>
