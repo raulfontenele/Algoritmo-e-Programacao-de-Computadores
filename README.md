@@ -165,6 +165,7 @@ Faça um programa que leia 5 números inteiros que deverão ser informados pelo 
 A função for é uma estrutura de repetição. Ela permite repetir uma determinada parte do código quantas vezes forem necessárias. É usada de forma de forma majoritária quando não se tem uma quantidade de repetições definida e é necessário continuar a executar enquando uma determiada condição for verdadeira.
 
 Estrutura básica:
+
 	while(CONDIÇÃO VERDADE)
 	{
 		BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO DESCRITA ENTRE PARÊNTESES SEJA FALSA;
