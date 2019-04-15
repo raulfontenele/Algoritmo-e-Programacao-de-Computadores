@@ -1,3 +1,10 @@
 1) Escreva um programa que imprima "Hello World" na tela.
 
 2) Escreva um programa que peça ao usuário seu nome e cumprimente-o com seu nome.
+
+3) Escreva um programa que leia dois números e mostre sua soma.
+
+4) Escreva um programa que leia uma temperatura em graus Celsius e exiba a
+temperatura na escala Fahrenheit.
+
+5) Escreva um programa que leia um número real e mostre o inteiro mais próximo.

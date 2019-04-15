@@ -1,0 +1,47 @@
+<script>
+/*
+	UTILIZAÇÃO DA ESTRUTURA CONDICIONAL IF,ELSE IF, ELSE
+	
+	ESTRUTURA BÁSICA:
+	if (primeira_condição_a_ser_testada)
+	{
+		bloco de código para o caso no qual a condição testada seja verdadeira;
+	}
+	else if(segunda_condição_a_ser_testada)
+	{
+		Bloco de código que será executado caso a condição dentro do else if seja verdadeira;
+		//Não existe a obrigatoriedade de existir, mas o mesmo só pode existir após um if.
+	}
+	else{
+		Bloco de código que será caso nem a primeira nem a segunda condição sejam verdadeiras;
+		//Não existe a obrigatoriedade de existir, mas o mesmo só pode existir após um if.
+	}
+	
+	PROBLEMA PROPOSTO:
+	ESCREVA UM PROGRAMA QUE PEÇA AO USUÁRIO QUE DIGITE UM NÚMERO E MOSTRE NA TELA -1 CASO O NÚMERO DIGITADO NEGATIVO, MOSTRE 0 CASO O NÚMERO DIGITADO SEJA
+	IGUAL A 0 OU MOSTRE 1 CASO O NÚMERO SEJA POSITIVO.
+*/
+
+//Delcaração de variáveis
+var numero_digitado;
+
+//Pedir ao usuário que digite um número
+numero_digitado = parseFloat(prompt("Digite um numero"));
+//Lembrete: é importante usar parseFloat ao invés de parseInt porque caso o usuário digite um número quebrado quebrado como 0.5, a parte inteira será zero
+//o que implicará em um caso errado.
+
+//Condição para o número positivo
+if(numero_digitado > 0){
+	alert("O numero de retorno foi: 1");
+}
+//Condição para o número igual a zero
+else if(numero_digitado == 0)
+{
+	alert("O numero de retorno foi: 0");
+}
+//Condição para números negativos, já que as condições anteriores anteriores contemplam todos os número positivos maiores ou iguais a zero.
+else
+{
+	alert("O numero de retorno foi: -1");
+}
+</script>

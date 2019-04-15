@@ -1,0 +1,14 @@
+1) Escreva um programa que receba um número digitado pelo usuário e mostre na tela 0 caso ele seja par ou 1 caso ele seja impar.
+
+2) Escreva um programa que receba dois números digitados pelo usuário e mostre qual o maior número.
+
+3) Escreva um programa que receba dois números inteiros, e retorne 1 caso o primeiro seja divisível pelo
+segundo e 0 caso contrário.
+
+4) Escreva um programa que leia um número real e mostre o inteiro mais próximo.
+
+6) Escreva um programa realize o jogo do pedra, papel ou tesoura. O programa deve pedir uma das três opções para dois jogadores. Ao final deve ser mostrado na tela qual jogador ganhou ou se houve empate.
+
+5) Um caixa eletrônico possui cédulas de 2, 5, 10, 20, 50 e 100 reais. Escreva um programa
+que leia o valor a ser sacado e mostre a quantidade de cada cédula a ser utilizada de
+modo que o mínimo de notas seja retirado.
