@@ -28,18 +28,16 @@ Funções de input são funções que permitem receber dados informados pelo usu
 As principais funções de input são: prompt e confirm.
 
 As estruturas básicas são:
-
-`` 
-var leitura = prompt("Mensagem que será mostrada ao usuário pedindo algo","Resposta padrão"(opcional));
-`` 
+ 
+	var leitura = prompt("Mensagem que será mostrada ao usuário pedindo algo","Resposta padrão"(opcional));
+ 
 
 
 - É importante lembrar de atribuir o retorno do prompt há alguma variável para que a informação não seja perdida.
 - A mensagem que virá do prompt será tratada como uma string. Caso queira que seja tratada como um número inteiro, é necessário o uso da função parseInt().
 
-``
-var leitura = confirm("Mensagem para perguntar se ele deseja confirmar");
-``
+	var leitura = confirm("Mensagem para perguntar se ele deseja confirmar");
+
  - A função confirm atribui true caso o usuário clique em "Ok" ou atribui false caso o usuário clique em "Cancelar"
 
 ### Output
@@ -162,3 +160,50 @@ Faça um programa que leia 5 números inteiros que deverão ser informados pelo 
 12) Escreva um programa que mostre na tela os 10 primeiros termos da série de Fibonacci.
 
 13) Escreva peça na tela um número N e mostre na tela os N primeiros termos da série de Fibonacci.
+
+## While
+A função for é uma estrutura de repetição. Ela permite repetir uma determinada parte do código quantas vezes forem necessárias. É usada de forma de forma majoritária quando não se tem uma quantidade de repetições definida e é necessário continuar a executar enquando uma determiada condição for verdadeira.
+
+Estrutura básica:
+	while(CONDIÇÃO VERDADE)
+	{
+		BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO DESCRITA ENTRE PARÊNTESES SEJA FALSA;
+	}
+	
+### Problema proposto:
+Fça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da seoma dos números.
+
+[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+
+[Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_While/Exemplo_While.html)
+
+### Questões:
+1) Escreva um programa que leia 10 números digitados pelo usuário e mostre na tela a média deles.
+
+2) Escreva um programa que peça ao usuário o número de interações a serem realizado. Em cada interação, o usuário deve informar um número e ao final delas o programa deverá informar a média deles.
+
+3) Escreva um programa que peça ao usuário o número de interações a serem realizado. Em cada interação, o usuário deve informar um número e ao final delas o programa deverá informar o maior número entre os digitados.
+
+4) Escreva um programa que peça ao usuário o número de interações a serem realizado. Em cada interação, o usuário deve informar um número e ao final delas o programa deverá informar quantos desses números são positivos, quantos são negativos, qual o maior e o menor número entre os digitados.
+
+5) Escreva que peça digite um número e continue a pedir enquanto o número digitado não for igual a zero. Ao final informe quantos números foram digitados.
+
+6) Escreva que peça digite um número e continue a pedir enquanto o número digitado não for igual a zero. Ao final o programa deverá informar quantos desses números são positivos, quantos são negativos, qual o maior e o menor número entre os digitados.
+
+7) Escreva um programa que sortei 10 números aleatórios entre 0 e 10 e mostre na tela os números sorteado, a média deles e qual o maior e o menor número entre eles.
+
+8) Escreva um programa que sortei 10 números aleatórios entre -10 e 10 e mostre na tela os números sorteado, quantos deles são positivos, quantos são positivos, quantos são negativos e qual o maior e o menor número entre eles.
+
+9) Escreva um programa que sortei 10 números aleatórios entre 0 e 10, a cada sorteio o usuário deverá digitar um número. Ao final do sorteio o programa deverá informar quantos acertos o usuário obteve. Cada acerto só será contabilizado caso o usuário acerte o número que foi sorteado naquela rodada.
+
+8) Escreva um programa que peça ao usuário um número positivo ao usuário. Ao final, informe o valor do fatorial do número digitado.
+
+10) Escreva um programa que peça uma base e um expoente, positivos, ao usuário. No final informe o valor da base elevada ao expoente.
+
+11) Escreva um programa que peça uma base e um expoente, que podem ser positivos ou negativos, ao usuário e ao final informe o valor da base elevada ao expoente.
+
+12) Escreva um programa que peça ao usuário um valor e informe se o mesmo é primo ou não.
+
+13) Escreva um programa que mostre na tela os 10 primeiros termos da série de Fibonacci.
+
+14) Escreva peça na tela um número N e mostre na tela os N primeiros termos da série de Fibonacci.
