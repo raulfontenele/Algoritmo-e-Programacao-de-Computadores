@@ -172,7 +172,7 @@ Estrutura básica:
 	}
 	
 ### Problema proposto:
-Fça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da seoma dos números.
+Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da seoma dos números.
 
 [Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
 
@@ -208,3 +208,5 @@ Fça um programa que leia 5 números inteiros que deverão ser informados pelo u
 13) Escreva um programa que mostre na tela os 10 primeiros termos da série de Fibonacci.
 
 14) Escreva peça na tela um número N e mostre na tela os N primeiros termos da série de Fibonacci.
+
+
