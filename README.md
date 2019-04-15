@@ -62,6 +62,8 @@ document.write("Mensagem a ser mostrada da seção document da página html" + v
 ### Problema proposto
 FAÇA UM PROGRAMA QUE LEIA UMA FRASE DIGITADA PELO USUÁRIO. APÓS ISSO, PEÇA QUE ELE CONFIRME QUE DIGITOU A MENSAGEM. CASO ELE CLIQUE EM OK, MOSTRE A MENSAGEM DIGITADA CASO ELE CLIQUE EM CANCELAR, DIGA QUE NÃO FOI POSSÍVEL IDENTIFICAR A MENSAGEM DIGITADA.
 
+[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
 
 
@@ -96,6 +98,67 @@ Estrutura básica:
 		//Não existe a obrigatoriedade de existir, mas o mesmo só pode existir após um if.
 	}
 
+### Problema proposto:
+Escreva um programa que peça ao usuário que digite um número e mostre na tela -1 caso o número digitado seja negativo, mostre 0 caso o número digitado seja igual a 0 ou mostre na tela 1 caso o número digitado seja positivo.
 
-[Link para for](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_For/Exemplo_For.html)
+[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
 
+[Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_If_Else/Exemplo_If_Else.html)
+
+### Questões:
+1) Escreva um programa que receba um número digitado pelo usuário e mostre na tela 0 caso ele seja par ou 1 caso ele seja impar.
+
+2) Escreva um programa que receba dois números digitados pelo usuário e mostre qual o maior número.
+
+3) Escreva um programa que receba dois números inteiros, e retorne 1 caso o primeiro seja divisível pelo
+segundo e 0 caso contrário.
+
+4) Escreva um programa que leia um número real e mostre o inteiro mais próximo.
+
+6) Escreva um programa realize o jogo do pedra, papel ou tesoura. O programa deve pedir uma das três opções para dois jogadores. Ao final deve ser mostrado na tela qual jogador ganhou ou se houve empate.
+
+5) Um caixa eletrônico possui cédulas de 2, 5, 10, 20, 50 e 100 reais. Escreva um programa que leia o valor a ser sacado e mostre a quantidade de cada cédula a ser utilizada de modo que o mínimo de notas seja retirado.
+
+## For
+A função for é uma estrutura de repetição. Ela permite repetir uma determinada parte do código quantas vezes forem necessárias. É usada de forma de forma majoritária quando se tem uma quantidade de repetições definida.
+
+Estrutura básica:
+
+	for(CONDIÇÃO INICIAL;CONDIÇÃO FINAL; INCREMENTO/DECREMENTO)
+	{
+		BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO INICIAL SEJA IGUAL A FINAL;
+	}
+	
+### Problema proposto:
+Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da soma dos números.
+
+[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+
+[Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_For/Exemplo_For.html)
+
+### Questões
+1) Escreva um programa que leia 10 números digitados pelo usuário e mostre na tela a média deles.
+
+2) Escreva um programa que peça ao usuário o número de interações a serem realizado. Em cada interação, o usuário deve informar um número e ao final delas o programa deverá informar a média deles.
+
+3) Escreva um programa que peça ao usuário o número de interações a serem realizado. Em cada interação, o usuário deve informar um número e ao final delas o programa deverá informar o maior número entre os digitados.
+
+4) Escreva um programa que peça ao usuário o número de interações a serem realizado. Em cada interação, o usuário deve informar um número e ao final delas o programa deverá informar quantos desses números são positivos, quantos são negativos, qual o maior e o menor número entre os digitados.
+
+5) Escreva um programa que sortei 10 números aleatórios entre 0 e 10 e mostre na tela os números sorteado, a média deles e qual o maior e o menor número entre eles.
+
+6) Escreva um programa que sortei 10 números aleatórios entre -10 e 10 e mostre na tela os números sorteado, quantos deles são positivos, quantos são positivos, quantos são negativos e qual o maior e o menor número entre eles.
+
+7) Escreva um programa que sortei 10 números aleatórios entre 0 e 10, a cada sorteio o usuário deverá digitar um número. Ao final do sorteio o programa deverá informar quantos acertos o usuário obteve. Cada acerto só será contabilizado caso o usuário acerte o número que foi sorteado naquela rodada.
+
+8) Escreva um programa que peça ao usuário um número positivo ao usuário. Ao final, informe o valor do fatorial do número digitado.
+
+9) Escreva um programa que peça uma base e um expoente, positivos, ao usuário. No final informe o valor da base elevada ao expoente.
+
+10) Escreva um programa que peça uma base e um expoente, que podem ser positivos ou negativos, ao usuário e ao final informe o valor da base elevada ao expoente.
+
+11) Escreva um programa que peça ao usuário um valor e informe se o mesmo é primo ou não.
+
+12) Escreva um programa que mostre na tela os 10 primeiros termos da série de Fibonacci.
+
+13) Escreva peça na tela um número N e mostre na tela os N primeiros termos da série de Fibonacci.
