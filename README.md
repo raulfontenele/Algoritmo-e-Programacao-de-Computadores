@@ -15,8 +15,7 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
 
 
 ### Pré-requisitos
-
-*[NotePad++](https://notepad-plus-plus.org/download/v7.6.6.html) - O editor de texto/código utilizando pelos autores. Fique a vontade de utilizar outras opções dispoíveis.
+*[NotePad++](https://notepad-plus-plus.org/download/v7.6.6.html) - O editor de texto/código utilizando pelos autores. Fique a vontade de utilizar outras opções dispoíveis como o [Visual Studio Code](https://code.visualstudio.com/Download).
 *Precisaremos também de um navegador capaz de compilar javaScript, como [Google Chrome](https://www.google.com/intl/pt-BR_ALL/chrome/) ou [Firefox](https://www.mozilla.org/pt-BR/firefox/new/).
 
 
