@@ -223,6 +223,33 @@ Estrutura básica:
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Fuction/Exemplo_Function.html)
 
+### Questões:
+1) Fazer uma função que receba um número inteiro e retorne 1 caso seja par e 0 caso seja impar.
+
+2) Fazer uma função que receba dois números inteiros, e retorne 1 caso o primeiro seja divisível pelo
+segundo e 0 caso contrário.
+
+3) Fazer uma função que retorne a quantidade de divisores de um número inteiro, fornecido para a
+função.
+
+4)  Fazer uma função que receba três números, A, B e C de uma equação do segundo grau (Ax2+Bx+C=0), e
+retorne 1 caso tenha duas raízes reais distintas, 0 caso tenha duas raízes reais iguais e –1 caso não
+tenha raízes reais.
+
+5) Faça uma função que recebe a idade de uma pessoa em anos, meses e dias e retorna essa idade expressa em dias.
+
+6) Fazer uma função que receba um número inteiro e retorne o fatorial.
+
+7) Fazer uma função que receba uma base e um expoente e retorne o valor da base elevado ao expoente.
+
+8) Fazer uma função que receba um número x e retorne o valor do sen(x) calculado pela série de Taylor.
+
+9) Faça uma função que receba um número referente a uma posição retorne o elemento da série de Fibonacci que se encontra na posição recebida.
+
+10) Faça uma função que receba um número e retorne se ele verdadeiro se ele é um elemento da série de Fibonacci ou falso caso não.
+
+11) Faça uma função que receba dois número e retorne verdadeiro caso eles sejam elementos consecutivos da série de Fibonacci.
+
 ## Vetor
 Um vetor é uma coleção de variáveis de mesmo tipo e acessíveis com um único nome. A individualização de cada variável de um vetor é feita através do uso de índices.
 
@@ -251,3 +278,29 @@ Exemplo:
 	vetor[0]
 	
 Com esse comando é possível acessar o primeiro elemento do vetor.
+
+### Problema proposto:
+Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e grave em um vetor. Ao final, percorra todo o vetor e mostre na tela os elementos armazenados no vetor.
+
+[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+
+[Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Vetor/Exemplo_Vetor.html)
+
+### Questões
+1) Escreva um programa que leia 10 números digitados pelo usuário e grave-os em um vetor. Ao final, mostre o vetor de trás para frente.
+
+2) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Troque todos os elementos do primeiro vetor com os elementos do segundo vetor e ao final mostre todos os elementos dos dois vetores.
+
+3) Escreva um programa que leia 10 números digitados pelo usuário e grave-os em um vetor. Após isso, peça para o usuário digitar um décimo primeiro número que deverá ser procurado. Percorra todo o vetor inicial e informe na tela quantas vezes o décimo primeiro número aparece no vetor.
+
+4) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Percorra os dois vetores e mostre na tela a soma do maior elemento do primeiro vetor com o menor elemento do segundo vetor.
+
+5) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Mostre na tela um terceiro vetor que será igual a concatenação dos dois vetores.
+
+6) Escreva um programa que leia 10 números digitados pelo usuário e grave-os em um vetor. Ao final, mostre o vetor em ordem crescente.
+
+7) Escreva um programa que leia 2 palavras digitadas pelo usuário. Ao final, mostre as palavras em ordem alfabética.
+
+8) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Mostre na tela um terceiro vetor que será a ordenação dos dois outros vetores em ordem crescente.
+
+9) Escreva um programa que leia 10 números digitados pelo usuário. Grave os 5 primeiros números em um vetor e os 5 últimos em um segundo vetor. Mostre na tela um terceiro vetor que será a ordenação dos dois outros vetores em ordem crescente excluindo os valores repetidos.
