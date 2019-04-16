@@ -25,40 +25,35 @@ Este [vídeo](https://www.youtube.com/watch?v=8mei6uVttho) é um ótimo início 
 
 ### Input
 Funções de input são funções que permitem receber dados informados pelo usuário.
-As principais funções de input são: prompt e confirm.
+A principal função de input é o prompt.
 
 As estruturas básicas são:
  
 	var leitura = prompt("Mensagem que será mostrada ao usuário pedindo algo","Resposta padrão"(opcional));
  
 
-
 - É importante lembrar de atribuir o retorno do prompt há alguma variável para que a informação não seja perdida.
 - A mensagem que virá do prompt será tratada como uma string. Caso queira que seja tratada como um número inteiro, é necessário o uso da função parseInt().
 
-	var leitura = confirm("Mensagem para perguntar se ele deseja confirmar");
-
- - A função confirm atribui true caso o usuário clique em "Ok" ou atribui false caso o usuário clique em "Cancelar"
 
 ### Output
 Funções de output são funções que permitem informado dados ao usuário que foram obtidos com o programa.
 As principais funções de output são: document.write e alert.
 
 As estruturas básicas são:
-``
-alert("Mensagem a ser mostrada ao usuário em uma janela pop up" + variável_a_ser_exibida_caso_necessário);
-``
+
+	alert("Mensagem a ser mostrada ao usuário em uma janela pop up" + variável_a_ser_exibida_caso_necessário);
 
 - O alert abrirá uma caixa pop up com a mensagem ou variável que será colocada entre os parênteses.
 
-``
+``	
 document.write("Mensagem a ser mostrada da seção document da página html" + variável_a_ser_exibida_caso_necessário);
-``
+``	
 
 - O document.write exibirá na parte "document" da página web a mensagem ou variável que será colocada entre os parênteses.
 
 ### Problema proposto
-FAÇA UM PROGRAMA QUE LEIA UMA FRASE DIGITADA PELO USUÁRIO. APÓS ISSO, PEÇA QUE ELE CONFIRME QUE DIGITOU A MENSAGEM. CASO ELE CLIQUE EM OK, MOSTRE A MENSAGEM DIGITADA CASO ELE CLIQUE EM CANCELAR, DIGA QUE NÃO FOI POSSÍVEL IDENTIFICAR A MENSAGEM DIGITADA.
+Faça um programa que leia uma frase digitada pelo usuário e mostre na tela a mensagem digitada.
 
 [Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
 
@@ -209,4 +204,44 @@ Faça um programa que leia 5 números inteiros que deverão ser informados pelo 
 
 14) Escreva peça na tela um número N e mostre na tela os N primeiros termos da série de Fibonacci.
 
+## Function
+Function permite a criação de funções que podem ser chamadas durante o código. As functions são importântes porque permitem a utilização do mesmo trecho do código, podendo mudar os parâmetros de entrada, sem a necessidade de reescrevê-los. As functions podem ter um retorno ou simplesmente fazerem modificações internas.
 
+Estrutura básica:
+
+	function NOME_DA_FUNÇÃO(PARÂMETROS DA FUNÇÃO)
+	{
+		CÓDIGO A SER EXECUTADO DENTRO DA FUNÇÃO;
+		return VALOR_A_SER_RETORNADO;  --> CASO EXISTA ALGUM VALOR A SER RETORNADO
+	}
+
+### Problemas propostos:
+1) Escreva uma função que receba um número inteiro e positivo e retorne 0 caso o mesmo seja par ou 1 caso o mesmo seja impar.
+2) Escreva uma função que receba dois números e retorne a soma deles.
+
+[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+
+[Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Fuction/Exemplo_Function.html)
+
+## Vetor
+
+Estrutura básica:
+Um vetor pode ser iniciado vazio ou valores previamente definidos. As estruturas básicas são:
+1) Inicializando um vetor vazio e sem tamanho prévio.
+
+	var vetor = [];
+	
+2) Inicializando um vetor vazio e com tamanho prévio.
+
+	var vetor = new Array(TAMANHO_DO_VETOR);
+	
+3) Inicializando um vetor preenchido.
+
+	var vetor = [Num1 Num2 ... NumN];
+	
+3.1)Inicializando um vetor preenchido.
+
+	var vetor = new Array(Num1 Num2 ... NumN);
+	
+Para acessar os elementos de um vetor: vetor[0]
+Com esse comando é possível acessar o primeiro elemento do vetor.
