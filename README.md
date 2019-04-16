@@ -224,24 +224,30 @@ Estrutura básica:
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Fuction/Exemplo_Function.html)
 
 ## Vetor
+Um vetor é uma coleção de variáveis de mesmo tipo e acessíveis com um único nome. A individualização de cada variável de um vetor é feita através do uso de índices.
 
 Estrutura básica:
-Um vetor pode ser iniciado vazio ou valores previamente definidos. As estruturas básicas são:
-1) Inicializando um vetor vazio e sem tamanho prévio.
+Um vetor pode ser iniciado vazio ou valores previamente definidos. 
+
+-Inicializando um vetor vazio e sem tamanho prévio.
 
 	var vetor = [];
 	
-2) Inicializando um vetor vazio e com tamanho prévio.
+-Inicializando um vetor vazio e com tamanho prévio.
 
 	var vetor = new Array(TAMANHO_DO_VETOR);
 	
-3) Inicializando um vetor preenchido.
+-Inicializando um vetor preenchido.
 
 	var vetor = [Num1 Num2 ... NumN];
 	
-3.1)Inicializando um vetor preenchido.
+-Inicializando um vetor preenchido.
 
 	var vetor = new Array(Num1 Num2 ... NumN);
 	
-Para acessar os elementos de um vetor: vetor[0]
+Para acessar os elementos de um vetor basta usar o nome do vetor seguido de colchetes com o valor do índice em seu interior. É importante lembrar que a primeira posição de um vetor em JavaScript recebe o índice zero.
+Exemplo:
+
+	vetor[0]
+	
 Com esse comando é possível acessar o primeiro elemento do vetor.
