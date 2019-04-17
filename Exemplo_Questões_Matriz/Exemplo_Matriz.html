@@ -1,0 +1,40 @@
+<script>
+
+//Declaração de variáveis
+var numero_colunas;
+var numero_linhas;
+var matriz = [];
+var valor = 0; // A variável valor será inicializada em zero porque o menor valor a ser colocado na matriz é zero.
+
+//Pedir o número de linhas e de colunas para o usuário
+numero_colunas = parseInt(prompt("Informe o numero de colunas da matriz"));
+numero_linhas = parseInt(prompt("Informe o numero de linhas da matriz"));
+//Lembrete: O parseInt se faz necessário uma vez que o número de linhas e colunas deve ser um número inteiro
+
+//Estrutura de repetição para criação da matriz
+for( var k = 0; k < numero_linhas; k ++)
+{
+	matriz[k] = []; //Declara que os elementos de 0 a k-1 da matriz são vetores.
+}
+
+//Preencher a matriz com os números desejados
+for(var i = 0; i < numero_linhas ; i++) //i representará todas as linhas
+{
+	for(var j = 0; j < numero_colunas; j++)// j representará todas as colunas
+	{
+		matriz[i][j] = valor;
+		valor = valor + 5; //Atualizar o valor da variável "valor" a cada interação
+	}
+}
+
+//Percorrer a matriz e mostrar seus valores
+for(var i = 0; i < numero_linhas ; i++) //i representará todas as linhas
+{
+	for(var j = 0; j < numero_colunas; j++)// j representará todas as colunas
+	{
+		document.write(matriz[i][j] + "     "); //A concatenação com o espaço se faz necessária para mostrar com o layout solicitado;
+	}
+	document.write("<br>"); //Pular uma linha cada vez que preencher todas as colunas
+}
+
+</script>
