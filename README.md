@@ -332,9 +332,14 @@ Estrutura básica:
 
 ## Problema proposto:
 Faça um programa que preencha uma matriz de N linhas por M colunas. O preenchimento da matriz deve ser feito a partir do número inicial zero e a cada índice, esse número deverá ser incrementado em 5. 
+
 Exemplo:
+
 Para uma matriz 3x2, a saída deve ser:
 0  5
+
 10 15
+
 20 25
+
 Note que a impressão na tela deve ser feita da mesma maneira como no exemplo acima.
