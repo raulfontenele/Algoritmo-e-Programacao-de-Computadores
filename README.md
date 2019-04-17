@@ -311,6 +311,7 @@ Faça um programa que leia 5 números inteiros que deverão ser informados pelo 
 Uma matriz consiste em um vetor em que cada elemento é constituido por um vetor.
 
 Estrutura básica:
+
 -Inicialização de vetor de n linhas com a quantidade de colunas indefinidas.
 
 	var vetor_matriz = [];
