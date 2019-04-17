@@ -54,7 +54,7 @@ document.write("Mensagem a ser mostrada da seção document da página html" + v
 ### Problema proposto
 Faça um programa que leia uma frase digitada pelo usuário e mostre na tela a mensagem digitada.
 
-[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+[Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=uXybP0kbXD4)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
 
@@ -93,7 +93,7 @@ Estrutura básica:
 ### Problema proposto:
 Escreva um programa que peça ao usuário que digite um número e mostre na tela -1 caso o número digitado seja negativo, mostre 0 caso o número digitado seja igual a 0 ou mostre na tela 1 caso o número digitado seja positivo.
 
-[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+[Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=X9SoaG2IL2A)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_If_Else/Exemplo_If_Else.html)
 
@@ -124,7 +124,7 @@ Estrutura básica:
 ### Problema proposto:
 Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da seoma dos números.
 
-[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+[Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=qb4qNCpHoUY)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_While/Exemplo_While.html)
 
@@ -172,7 +172,7 @@ Estrutura básica:
 ### Problema proposto:
 Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da soma dos números.
 
-[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+[Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=bWxTuL7EHFY)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_For/Exemplo_For.html)
 
@@ -220,7 +220,7 @@ Estrutura básica:
 1) Escreva uma função que receba um número inteiro e positivo e retorne 0 caso o mesmo seja par ou 1 caso o mesmo seja impar.
 2) Escreva uma função que receba dois números e retorne a soma deles.
 
-[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+[Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=sB5gISgLbfg)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Fuction/Exemplo_Function.html)
 
@@ -283,7 +283,7 @@ Com esse comando é possível acessar o primeiro elemento do vetor.
 ### Problema proposto:
 Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e grave em um vetor. Ao final, percorra todo o vetor e mostre na tela os elementos armazenados no vetor.
 
-[Link para vídeo-aula de resolução](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
+[Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=e0QLYC8VYfM)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Vetor/Exemplo_Vetor.html)
 
