@@ -350,7 +350,7 @@ Note que a impressão na tela deve ser feita da mesma maneira como no exemplo ac
 2) O professor de uma pequena sala de aula, dispõe as notas dos seus 5 alunos em cada
 uma das 4 avaliações aplicadas em uma tabela conforme o modelo abaixo.
 
-https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_2.JPG
+![Imagem2](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_2.JPG)
 
 Escreva um programa que utilize uma matriz 5 x 4 para realizar cada uma das
 seguintes tarefas:
@@ -364,7 +364,7 @@ constantes na matriz;
 produtividade de acordo com a quantidade de peças produzidas como mostra a tabela
 abaixo.
 
-https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_3.JPG
+![Imagem3](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_3.JPG)
 
 Os trabalhadores da classe 1 recebem um salário mínimo de R$880,00 sem
 adicional. Os da classe 2 recebem o salário mínimo mais um adicional de 2% deste
@@ -392,7 +392,7 @@ d) Informe a média geral da turma em todas as provas.
 4) A tabela abaixo mostra, para determinada região do Ceará, a distância em quilômetros
 entre qualquer cidade e outras 4 cidades vizinhas:
 
-https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_4.JPG
+![imagem4](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_4.JPG)
 
 Escreva um programa que:
 
