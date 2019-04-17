@@ -334,10 +334,6 @@ Estrutura básica:
 ## Problema proposto:
 Faça um programa que preencha uma matriz de N linhas por M colunas. O preenchimento da matriz deve ser feito a partir do número inicial zero e a cada índice, esse número deverá ser incrementado em 5. 
 
-
-[Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=nwh1Fr40pSs)
-
-[Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Exemplo_Matriz.html)
 Exemplo:
 
 Para uma matriz 3x2, a saída deve ser:
@@ -349,6 +345,12 @@ Para uma matriz 3x2, a saída deve ser:
 20 25
 
 Note que a impressão na tela deve ser feita da mesma maneira como no exemplo acima.
+
+
+[Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=nwh1Fr40pSs)
+
+[Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Exemplo_Matriz.html)
+
 
 1) Faça um programa que preencha uma matriz de N linhas por M colunas. O preenchimento da matriz deve ser feito a partir de números que deverão ser pedidos para o usuário. Ao final percorra toda a matriz e mostre todos os elementos.
 
