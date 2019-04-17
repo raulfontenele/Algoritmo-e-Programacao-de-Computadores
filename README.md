@@ -336,6 +336,7 @@ Faça um programa que preencha uma matriz de N linhas por M colunas. O preenchim
 Exemplo:
 
 Para uma matriz 3x2, a saída deve ser:
+
 0  5
 
 10 15
@@ -343,3 +344,58 @@ Para uma matriz 3x2, a saída deve ser:
 20 25
 
 Note que a impressão na tela deve ser feita da mesma maneira como no exemplo acima.
+
+1) Faça um programa que preencha uma matriz de N linhas por M colunas. O preenchimento da matriz deve ser feito a partir de números que deverão ser pedidos para o usuário. Ao final percorra toda a matriz e mostre todos os elementos.
+
+2) O professor de uma pequena sala de aula, dispõe as notas dos seus 5 alunos em cada
+uma das 4 avaliações aplicadas em uma tabela conforme o modelo abaixo.
+
+Escreva um programa que utilize uma matriz 5 x 4 para realizar cada uma das
+seguintes tarefas:
+
+a) Leia as notas dos alunos;
+
+b) Informe a média do “Aluno 4” ao longo do semestre de acordo com os valores
+constantes na matriz;
+
+3) Uma fábrica de calçados é composta por trabalhadores classificados em três perfis de
+produtividade de acordo com a quantidade de peças produzidas como mostra a tabela
+abaixo.
+
+Os trabalhadores da classe 1 recebem um salário mínimo de R$880,00 sem
+adicional. Os da classe 2 recebem o salário mínimo mais um adicional de 2% deste
+salário por cada peça produzida acima das 30 peças iniciais. Os da classe 3, recebem
+o salário mínimo mais um adicional de 4% desse salário por cada peça produzida
+acima das 30 peças iniciais. Escreva um programa em javascript que:
+
+a) Leia pelo teclado e armazene na primeira coluna de uma matriz 5x3 a
+quantidade de peças produzidas por 5 funcionários;
+
+b) Calcule e armazene na segunda coluna dessa matriz o adicional recebido por
+cada funcionário de acordo com seu perfil de produtividade;
+
+c) Calcule e armazene na terceira coluna da matriz o salário recebido por cada
+funcionário respectivamente;
+
+d) Calcule e mostre na tela quanto a fábrica gastou com a folha salarial;
+
+e) Calcule e mostre na tela a quantidade de peças produzidas.
+
+c) Informe a média da turma na “NP2 Prática”;
+
+d) Informe a média geral da turma em todas as provas.
+
+4) A tabela abaixo mostra, para determinada região do Ceará, a distância em quilômetros
+entre qualquer cidade e outras 4 cidades vizinhas:
+
+Escreva um programa que:
+-Leia uma matriz que armazene as distâncias entre as cidades desta região
+conforme o modelo acima;
+-Calcule a maior distância entre duas cidades;
+-Calcule e mostre as quais cidades guardam entre si a distância calculada no
+item anterior;
+-Calcule e mostre na tela a distância percorrida por um viajante que realiza o
+seguinte trajeto, cidades: 0, 2, 3, 1 e 4.
+-Leia em vetor um trajeto de 5 cidades escolhidas pelo usuário.
+-Calcule e mostre a distância percorrida por um viajante que faça o trajeto lido
+no item anterior.
