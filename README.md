@@ -440,3 +440,10 @@ seguinte trajeto, cidades: 0, 2, 3, 1 e 4.
 - Calcule e mostre a distância percorrida por um viajante que faça o trajeto lido
 no item anterior.
 
+##Bibliografia
+ASCENCIO, Ana Fernanda Gomes;CAMPOS, Edilene Aparecida Veneruchi de. <b>Fundamentos da programação de computadores : algoritmos, pascal, c/c++ e java</b>. 3. ed. São Paulo: Pearson Education do Brasil, 2012.
+
+FORBELLONE, Andre Luiz Vilar;EBERSPACHER, Henri Frederico. <b>Lógica de programação : a construção de algoritmos e estruturas de dados</b>. 3. ed. São Paulo: Pearson Education do Brasil, 2010.
+
+PUGA, Sandra;RISSETTI, Gerson. <b>Logica de programacao e estruturas de dados com aplicacoes em java</b>. São Paulo: Pearson Education do Brasil;Prentice-Hall, 2004.
+
