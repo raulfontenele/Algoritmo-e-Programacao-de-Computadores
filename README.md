@@ -56,6 +56,8 @@ Faça um programa que leia uma frase digitada pelo usuário e mostre na tela a m
 
 [Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=uXybP0kbXD4)
 
+[![Algoritmos: Resolução Input](https://img.youtube.com/vi/uXybP0kbXD4/0.jpg)](https://www.youtube.com/watch?v=uXybP0kbXD4)
+
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Input_Output/exemplo_input_output.html)
 
 
@@ -95,6 +97,8 @@ Escreva um programa que peça ao usuário que digite um número e mostre na tela
 
 [Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=X9SoaG2IL2A)
 
+[![Algoritmos: Resolução If](https://img.youtube.com/vi/X9SoaG2IL2A/0.jpg)](https://www.youtube.com/watch?v=X9SoaG2IL2A)
+
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_If_Else/Exemplo_If_Else.html)
 
 ### Questões:
@@ -125,6 +129,8 @@ Estrutura básica:
 Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da seoma dos números.
 
 [Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=qb4qNCpHoUY)
+
+[![Algoritmos: Resolução While](https://img.youtube.com/vi/qb4qNCpHoUY/0.jpg)](https://www.youtube.com/watch?v=qb4qNCpHoUY)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_While/Exemplo_While.html)
 
@@ -174,6 +180,8 @@ Faça um programa que leia 5 números inteiros que deverão ser informados pelo 
 
 [Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=bWxTuL7EHFY)
 
+[![Algoritmos: Resolução For](https://img.youtube.com/vi/bWxTuL7EHFY/0.jpg)](https://www.youtube.com/watch?v=bWxTuL7EHFY)
+
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_For/Exemplo_For.html)
 
 ### Questões
@@ -221,6 +229,8 @@ Estrutura básica:
 2) Escreva uma função que receba dois números e retorne a soma deles.
 
 [Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=sB5gISgLbfg)
+
+[![Algoritmos: Resolução Function](https://img.youtube.com/vi/sB5gISgLbfg/0.jpg)](https://www.youtube.com/watch?v=sB5gISgLbfg)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Fuction/Exemplo_Function.html)
 
@@ -284,6 +294,8 @@ Com esse comando é possível acessar o primeiro elemento do vetor.
 Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e grave em um vetor. Ao final, percorra todo o vetor e mostre na tela os elementos armazenados no vetor.
 
 [Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=e0QLYC8VYfM)
+
+[![Algoritmos: Resolução Vetor](https://img.youtube.com/vi/e0QLYC8VYfM/0.jpg)](https://www.youtube.com/watch?v=e0QLYC8VYfM)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Vetor/Exemplo_Vetor.html)
 
@@ -354,6 +366,8 @@ Note que a impressão na tela deve ser feita da mesma maneira como no exemplo ac
 
 
 [Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=nwh1Fr40pSs)
+
+[![Algoritmos: Resolução Vetor](https://img.youtube.com/vi/nwh1Fr40pSs/0.jpg)](https://www.youtube.com/watch?v=nwh1Fr40pSs)
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Exemplo_Matriz.html)
 
