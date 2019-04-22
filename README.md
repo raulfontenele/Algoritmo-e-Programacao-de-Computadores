@@ -447,7 +447,7 @@ seguinte trajeto, cidades: 0, 2, 3, 1 e 4.
 - Calcule e mostre a distância percorrida por um viajante que faça o trajeto lido
 no item anterior.
 
-## Notas dos autores
+## Nota dos autores
 Favor responda o questionário após da leitura do material que se sucedeu. Não será necessário se identificar, porém responda com sinceridade. Sua resposta possui extrema importância para o desenvolvimento de ferramentas mais completas e voltadas as suas dificuldades.
 
 [Link para a pesquisa](https://forms.gle/CsjbfTev9xEgyBCh9)
