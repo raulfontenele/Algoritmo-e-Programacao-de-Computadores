@@ -447,6 +447,11 @@ seguinte trajeto, cidades: 0, 2, 3, 1 e 4.
 - Calcule e mostre a distância percorrida por um viajante que faça o trajeto lido
 no item anterior.
 
+## Notas dos autores
+Favor responda o questionário após da leitura do material que se sucedeu. Não será necessário se identificar, porém responda com sinceridade. Sua resposta possui extrema importância para o desenvolvimento de ferramentas mais completas e voltadas as suas dificuldades.
+
+[Link para a pesquisa](https://forms.gle/CsjbfTev9xEgyBCh9)
+
 ## Bibliografia
 
 ASCENCIO, Ana Fernanda Gomes;CAMPOS, Edilene Aparecida Veneruchi de. <b>Fundamentos da programação de computadores : algoritmos, pascal, c/c++ e java</b>. 3. ed. São Paulo: Pearson Education do Brasil, 2012.
