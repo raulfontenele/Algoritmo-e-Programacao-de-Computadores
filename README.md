@@ -134,7 +134,7 @@ Estrutura básica:
 	}
 	
 ### Problema proposto:
-Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da seoma dos números.
+Faça um programa que leia 5 números inteiros que deverão ser informados pelo usuário e retorne o valor da soma dos números.
 
 [Link para vídeo-aula de resolução](https://www.youtube.com/watch?v=qb4qNCpHoUY)
 
