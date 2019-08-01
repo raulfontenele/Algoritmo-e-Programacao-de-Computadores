@@ -1,4 +1,4 @@
-# Algorítmos para Iniciantes
+# Algoritmos para Iniciantes
 
 Este guia irá compor as ferramentas para ensino de Algoritmos e Programação de Computadores, onde os alunos aprendem alguma linguagem de programação sem necessidade de um conhecimento prévio.
 
