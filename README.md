@@ -54,7 +54,7 @@ As estruturas básicas são:
 - O alert abrirá uma caixa pop up com a mensagem ou variável que será colocada entre os parênteses.
 
 ``	
-document.write("Mensagem a ser mostrada da seção document da página html" + variável_a_ser_exibida_caso_necessário);
+document.write("Mensagem a ser mostrada na seção document da página html" + variável_a_ser_exibida_caso_necessário);
 ``	
 
 - O document.write exibirá na parte "document" da página web a mensagem ou variável que será colocada entre os parênteses.
@@ -88,12 +88,13 @@ Estrutura básica:
 
 	if (primeira_condição_a_ser_testada)
 	{
-		bloco de código para o caso no qual a condição testada seja verdadeira;
+		Bloco de código para o caso no qual a condição testada seja verdadeira;
 	}
 	else if(segunda_condição_a_ser_testada)
 	{
-		Bloco de código que será executado caso a condição dentro do else if seja verdadeira;
+		Bloco de código que será executado caso a segunda condição testada seja verdadeira;
 		//Não existe a obrigatoriedade de existir, mas o mesmo só pode existir após um if.
+		//Podem existir quantos blocos de "else if" o desenvolvedor achar necessário.
 	}
 	else{
 		Bloco de código que será caso nem a primeira nem a segunda condição sejam verdadeiras;
