@@ -379,10 +379,17 @@ Note que a impressão na tela deve ser feita da mesma maneira como no exemplo ac
 
 [Link para baixar o código](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Exemplo_Matriz.html)
 
+### Questões:
 
 1) Faça um programa que preencha uma matriz de N linhas por M colunas. O preenchimento da matriz deve ser feito a partir de números que deverão ser pedidos para o usuário. Ao final percorra toda a matriz e mostre todos os elementos.
 
-2) O professor de uma pequena sala de aula, dispõe as notas dos seus 5 alunos em cada
+2) Faça um programa que preencha uma matriz de N linhas por M colunas. O preenchimento da matriz deve ser feito a partir de números que deverão ser pedidos para o usuário. Ao final, o programa deverá retornar a transposição da matriz informada.
+
+3) Faça um programa que receba duas matrizes de N linhas por M colunas, cujo os elementos de cada uma das matrizes deverá ser informado pelo usuário. O programa deverá realizar a soma das duas matrizes e ao final exibir na tela a matriz resultante.
+
+4) Faça um programa que receba duas matrizes, cuja as dimensões e os elementos de cada uma das matrizes deverão ser informados pelo usuário. O programa deverá realizar a multiplicação das duas matrizes e ao final exibir na tela a matriz resultante.
+
+5) O professor de uma pequena sala de aula, dispõe as notas dos seus 5 alunos em cada
 uma das 4 avaliações aplicadas em uma tabela conforme o modelo abaixo.
 
 ![Imagem2](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_2.JPG)
@@ -395,7 +402,7 @@ a) Leia as notas dos alunos;
 b) Informe a média do “Aluno 4” ao longo do semestre de acordo com os valores
 constantes na matriz;
 
-3) Uma fábrica de calçados é composta por trabalhadores classificados em três perfis de
+6) Uma fábrica de calçados é composta por trabalhadores classificados em três perfis de
 produtividade de acordo com a quantidade de peças produzidas como mostra a tabela
 abaixo.
 
@@ -424,7 +431,7 @@ c) Informe a média da turma na “NP2 Prática”;
 
 d) Informe a média geral da turma em todas as provas.
 
-4) A tabela abaixo mostra, para determinada região do Ceará, a distância em quilômetros
+7) A tabela abaixo mostra, para determinada região do Ceará, a distância em quilômetros
 entre qualquer cidade e outras 4 cidades vizinhas:
 
 ![imagem4](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_4.JPG)
@@ -446,6 +453,8 @@ seguinte trajeto, cidades: 0, 2, 3, 1 e 4.
 
 - Calcule e mostre a distância percorrida por um viajante que faça o trajeto lido
 no item anterior.
+
+8) Faça um programa que preencha uma matriz quadrada de N linhas. O preenchimento da matriz deve ser feito a partir de números que deverão ser pedidos para o usuário. Ao final o programava deverá retorna o determinante da matriz informada.
 
 ## Nota dos autores
 Favor responda o questionário após da leitura do material que se sucedeu. Não será necessário se identificar, porém responda com sinceridade. Sua resposta possui extrema importância para o desenvolvimento de ferramentas mais completas e voltadas as suas dificuldades.
