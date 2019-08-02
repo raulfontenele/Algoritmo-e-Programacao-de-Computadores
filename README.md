@@ -7,7 +7,7 @@ Esta página é uma coleção de exercícios progressivamente mais difíceis que
 ## Nota dos autores
 Favor responda o questionário antes da leitura do material que se sucede. Não será necessário se identificar, porém responda com sinceridade. Sua resposta possui extrema importância para o desenvolvimento de ferramentas mais completas e voltadas as suas dificuldades.
 
-[Link para a pesquisa](https://forms.gle/fbXVkcyrXpTkoC3F7).
+[Link para a pesquisa](https://forms.gle/i5uKiXWBjVEbGvBs8).
 
 Após o estudo do material haverá uma nova pesquisa para saber sua percepção sobre o mesmo. Para esse estudo são feitas as mesmas considerações referentes ao estudo acima.
 
