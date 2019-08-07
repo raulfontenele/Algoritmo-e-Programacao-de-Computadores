@@ -435,7 +435,7 @@ d) Informe a média geral da turma em todas as provas.
 7) A tabela abaixo mostra, para determinada região do Ceará, a distância em quilômetros
 entre qualquer cidade e outras 4 cidades vizinhas:
 
-![imagem4](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_4.JPG)
+![imagem4](https://github.com/raulfontenele/Algoritmo-e-Programa-o-de-Computadores/blob/master/Exemplo_Quest%C3%B5es_Matriz/Imagens_Quest%C3%B5es/Tabela_Quest%C3%A3o_4.jpg)
 
 Escreva um programa que:
 
