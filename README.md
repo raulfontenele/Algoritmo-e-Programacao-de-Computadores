@@ -460,7 +460,7 @@ no item anterior.
 ## Nota dos autores
 Favor responda o questionário após da leitura do material que se sucedeu. Não será necessário se identificar, porém responda com sinceridade. Sua resposta possui extrema importância para o desenvolvimento de ferramentas mais completas e voltadas as suas dificuldades.
 
-[Link para a pesquisa](https://forms.gle/CsjbfTev9xEgyBCh9)
+[Link para a pesquisa](https://forms.gle/bsL44M13U76i3Tix9)
 
 ## Bibliografia
 
