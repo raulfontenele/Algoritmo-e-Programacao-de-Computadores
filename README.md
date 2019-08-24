@@ -97,7 +97,7 @@ Estrutura básica:
 		//Podem existir quantos blocos de "else if" o desenvolvedor achar necessário.
 	}
 	else{
-		Bloco de código que será caso nem a primeira nem a segunda condição sejam verdadeiras;
+		Bloco de código que será executado caso nem a primeira nem a segunda condição sejam verdadeiras;
 		//Não existe a obrigatoriedade de existir, mas o mesmo só pode existir após um if.
 	}
 
