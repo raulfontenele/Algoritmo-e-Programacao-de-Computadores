@@ -181,7 +181,7 @@ Estrutura básica:
 
 	for(CONDIÇÃO INICIAL;CONDIÇÃO FINAL; INCREMENTO/DECREMENTO)
 	{
-		BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO INICIAL SEJA IGUAL A FINAL;
+		BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO FINAL SEJA VERDADEIRA;
 	}
 	
 ### Problema proposto:
@@ -403,6 +403,10 @@ a) Leia as notas dos alunos;
 b) Informe a média do “Aluno 4” ao longo do semestre de acordo com os valores
 constantes na matriz;
 
+c) Informe a média da turma na “NP2 Prática”;
+
+d) Informe a média geral da turma em todas as provas.
+
 6) Uma fábrica de calçados é composta por trabalhadores classificados em três perfis de
 produtividade de acordo com a quantidade de peças produzidas como mostra a tabela
 abaixo.
@@ -427,10 +431,6 @@ funcionário respectivamente;
 d) Calcule e mostre na tela quanto a fábrica gastou com a folha salarial;
 
 e) Calcule e mostre na tela a quantidade de peças produzidas.
-
-c) Informe a média da turma na “NP2 Prática”;
-
-d) Informe a média geral da turma em todas as provas.
 
 7) A tabela abaixo mostra, para determinada região do Ceará, a distância em quilômetros
 entre qualquer cidade e outras 4 cidades vizinhas:
