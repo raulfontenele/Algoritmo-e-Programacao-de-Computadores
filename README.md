@@ -129,7 +129,7 @@ A função for é uma estrutura de repetição. Ela permite repetir uma determin
 
 Estrutura básica:
 
-	while(CONDIÇÃO VERDADE)
+	while(CONDIÇÃO_VERDADEIRA)
 	{
 		BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO DESCRITA ENTRE PARÊNTESES SEJA FALSA;
 	}
