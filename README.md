@@ -120,9 +120,11 @@ segundo e 0 caso contrário.
 
 4) Escreva um programa que leia um número real e mostre o inteiro mais próximo.
 
-6) Escreva um programa realize o jogo do pedra, papel ou tesoura. O programa deve pedir uma das três opções para dois jogadores. Ao final deve ser mostrado na tela qual jogador ganhou ou se houve empate.
+5) Escreva um programa realize o jogo do pedra, papel ou tesoura. O programa deve pedir uma das três opções para dois jogadores. Ao final deve ser mostrado na tela qual jogador ganhou ou se houve empate.
 
-5) Um caixa eletrônico possui cédulas de 2, 5, 10, 20, 50 e 100 reais. Escreva um programa que leia o valor a ser sacado e mostre a quantidade de cada cédula a ser utilizada de modo que o mínimo de notas seja retirado.
+6) Escreva um programa realize o jogo do pedra, papel ou tesoura. O programa deve pedir uma das três opções para o usuário e deverá sortear uma das três opção para o computador. Ao final deve ser mostrado na tela qual jogador ganhou ou se houve empate.
+
+7) Um caixa eletrônico possui cédulas de 2, 5, 10, 20, 50 e 100 reais. Escreva um programa que leia o valor a ser sacado e mostre a quantidade de cada cédula a ser utilizada de modo que o mínimo de notas seja retirado.
 
 ## While
 A função for é uma estrutura de repetição. Ela permite repetir uma determinada parte do código quantas vezes forem necessárias. É usada de forma de forma majoritária quando não se tem uma quantidade de repetições definida e é necessário continuar a executar enquando uma determiada condição for verdadeira.
