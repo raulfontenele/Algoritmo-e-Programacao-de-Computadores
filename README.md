@@ -79,7 +79,7 @@ Faça um programa que leia uma frase digitada pelo usuário e mostre na tela a m
 4) Escreva um programa que leia uma temperatura em graus Celsius e exiba a
 temperatura na escala Fahrenheit.
 
-5) Escreva um programa que leia um número real e mostre o inteiro mais próximo.
+5) Escreva um programa que leia um número real e mostre o inteiro mais próximo. Dica: Utilize uma função pronta para isso.
 
 ## If/Else
 As funções if, else if e else são funções condicionais. O que quer dizer que elas permitem que determinada parte do código seja executado caso uma condição seja verdadeira.
@@ -118,7 +118,7 @@ Escreva um programa que peça ao usuário que digite um número e mostre na tela
 3) Escreva um programa que receba dois números inteiros, e retorne 1 caso o primeiro seja divisível pelo
 segundo e 0 caso contrário.
 
-4) Escreva um programa que leia um número real e mostre o inteiro mais próximo.
+4) Escreva um programa que leia um número real e mostre o inteiro mais próximo. Indicação: Não utilize funções prontas.
 
 5) Escreva um programa realize o jogo do pedra, papel ou tesoura. O programa deve pedir uma das três opções para dois jogadores. Ao final deve ser mostrado na tela qual jogador ganhou ou se houve empate.
 
