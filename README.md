@@ -127,7 +127,9 @@ segundo e 0 caso contrário.
 7) Um caixa eletrônico possui cédulas de 2, 5, 10, 20, 50 e 100 reais. Escreva um programa que leia o valor a ser sacado e mostre a quantidade de cada cédula a ser utilizada de modo que o mínimo de notas seja retirado.
 
 ## While
-A função for é uma estrutura de repetição. Ela permite repetir uma determinada parte do código quantas vezes forem necessárias. É usada de forma de forma majoritária quando não se tem uma quantidade de repetições definida e é necessário continuar a executar enquando uma determiada condição for verdadeira.
+A função while é uma estrutura de repetição e ela permite repetir uma determinada parte do código quantas vezes forem necessárias. É usada de forma majoritária quando não se tem uma quantidade de repetições definida e é necessário continuar a executar enquanto uma determiada condição for verdadeira. O fato da quantidade de repetições ser conhecido não invalida a utilização deste comando, porém é recomendada a utilização a utilização da estrutura de repetição "FOR". 
+
+Lembrete: É importante sempre verificar que a expressão utilizada como condição deixe de ser verdadeira em algum momento, porque caso isso não se verifique, seu código ficará parado em um loop infinito, impedindo que outras funcionalidades sejam utilizadas. Um erro comum ao se utilizar o while com repetições contáveis é esquecer de incrementar o contador associado ao número de repetições.
 
 Estrutura básica:
 
@@ -177,13 +179,14 @@ Faça um programa que leia 5 números inteiros que deverão ser informados pelo 
 14) Escreva peça na tela um número N e mostre na tela os N primeiros termos da série de Fibonacci.
 
 ## For
-A função for é uma estrutura de repetição. Ela permite repetir uma determinada parte do código quantas vezes forem necessárias. É usada de forma de forma majoritária quando se tem uma quantidade de repetições definida.
+Assim como a função "WHILE", a função "FOR" é uma estrutura de repetição que permite executar um bloco de código diversas vezes sem que haja a necessidade de repetição de linhas. Sua utilização é feita de forma majoritária quando se é conhecida a quantidade de vezes que o determinado bloco de código deverá se repetir, em oposição a indicação para a utilização do "WHILE". 
+
 
 Estrutura básica:
 
 	for(CONDIÇÃO INICIAL;CONDIÇÃO FINAL; INCREMENTO/DECREMENTO)
 	{
-		BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO FINAL SEJA VERDADEIRA;
+		BLOCO DE CÓDIGO A SER EXECUTADO ATÉ QUE A CONDIÇÃO FINAL DEIXE DE SER VERDADEIRA;
 	}
 	
 ### Problema proposto:
