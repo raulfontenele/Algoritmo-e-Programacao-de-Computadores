@@ -162,11 +162,11 @@ Faça um programa que leia 5 números inteiros que deverão ser informados pelo 
 
 7) Escreva um programa que sortei 10 números aleatórios entre 0 e 10 e mostre na tela os números sorteado, a média deles e qual o maior e o menor número entre eles.
 
-8) Escreva um programa que sorteie 10 números aleatórios entre -10 e 10 e mostre na tela os números sorteado, quantos deles são positivos, quantos são positivos, quantos são negativos e qual o maior e o menor número entre eles.
+8) Escreva um programa que sorteie 10 números aleatórios entre -10 e 10 e mostre na tela os números sorteado, quantos deles são positivos, quantos são negativos e qual o maior e o menor número entre eles.
 
-9) Escreva um programa que sorteie 10 números aleatórios entre 0 e 10, a cada sorteio o usuário deverá digitar um número. Ao final do sorteio o programa deverá informar quantos acertos o usuário obteve. Cada acerto só será contabilizado caso o usuário acerte o número que foi sorteado naquela rodada.
+9) Escreva um programa que sorteie 10 números aleatórios inteiros entre 0 e 10, a cada sorteio o usuário deverá digitar um número. Ao final do sorteio o programa deverá informar quantos acertos o usuário obteve. Cada acerto só será contabilizado caso o usuário acerte o número que foi sorteado naquela rodada.
 
-8) Escreva um programa que peça ao usuário um número positivo ao usuário. Ao final, informe o valor do fatorial do número digitado.
+8) Escreva um programa que peça ao usuário um número positivo. Ao final, informe o valor do fatorial do número digitado.
 
 10) Escreva um programa que peça uma base e um expoente, positivos, ao usuário. No final informe o valor da base elevada ao expoente.
 
